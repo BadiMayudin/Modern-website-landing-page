@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../shery js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Morden website landing page"
+	}
+}
